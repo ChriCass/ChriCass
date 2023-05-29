@@ -1,5 +1,5 @@
 # 💫 Hi, my name is Christian Cassas and I'm a passionate full-stack developer based in Peru.
-<br>I have a deep passion for PHP, I find C# quite enjoyable, and my experience with JavaScript is a mix of love and frustration.<br><br>Adding to my list of languages, I'm eager to explore Python.<br><br> looking for new adventures in this world!<br><br>🔭 I’m currently working on ASP.NET, Laravel<br>🌱 I’m currently learning: React.js<br>💬 Ask me about: music, and get ready for a speech from me about everything involved in creating a musical piece.<br>⚡ Fun fact: I hate seafood. However, the most popular food in my country worldwide has fish
+<br>I have a deep passion for PHP, I find C# quite enjoyable, and my experience with JavaScript is a mix of love and frustration.<br><br>Adding to my list of languages, I'm eager to explore Python.<br><br> looking for new adventures in this world!<br><br>🔭 I’m currently working on Laravel and React<br>🌱 I’m currently learning: React.js<br>💬 Ask me about: music, and get ready for a speech from me about everything involved in creating a musical piece.<br>⚡ Fun fact: I hate seafood. However, the most popular food in my country worldwide has fish
 
 
 ## 🌐 Socials:
